@@ -1,4 +1,4 @@
-# cpu-scheduler-analysis
+# Cpu Scheduler Analysis
 This repository is for the OS's cpu scheduler analysis project (3-1)
 
 ## contents
